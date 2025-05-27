@@ -1,0 +1,11 @@
+D:\JAIR\Softfy\Modelos.Softfy\bin\Debug\net8.0\Modelos.Softfy.deps.json
+D:\JAIR\Softfy\Modelos.Softfy\bin\Debug\net8.0\Modelos.Softfy.dll
+D:\JAIR\Softfy\Modelos.Softfy\bin\Debug\net8.0\Modelos.Softfy.pdb
+D:\JAIR\Softfy\Modelos.Softfy\obj\Debug\net8.0\Modelos.Softfy.GeneratedMSBuildEditorConfig.editorconfig
+D:\JAIR\Softfy\Modelos.Softfy\obj\Debug\net8.0\Modelos.Softfy.AssemblyInfoInputs.cache
+D:\JAIR\Softfy\Modelos.Softfy\obj\Debug\net8.0\Modelos.Softfy.AssemblyInfo.cs
+D:\JAIR\Softfy\Modelos.Softfy\obj\Debug\net8.0\Modelos.Softfy.csproj.CoreCompileInputs.cache
+D:\JAIR\Softfy\Modelos.Softfy\obj\Debug\net8.0\Modelos.Softfy.dll
+D:\JAIR\Softfy\Modelos.Softfy\obj\Debug\net8.0\refint\Modelos.Softfy.dll
+D:\JAIR\Softfy\Modelos.Softfy\obj\Debug\net8.0\Modelos.Softfy.pdb
+D:\JAIR\Softfy\Modelos.Softfy\obj\Debug\net8.0\ref\Modelos.Softfy.dll

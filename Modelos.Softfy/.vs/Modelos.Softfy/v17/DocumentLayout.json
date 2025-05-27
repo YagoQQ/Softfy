@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JAIR\\Softfy\\Modelos.Softfy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AD79FC-29D3-4800-878F-85FB58DD0CA1}|..\\API.Softfy\\API.Softfy.csproj|d:\\jair\\softfy\\api.softfy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AD79FC-29D3-4800-878F-85FB58DD0CA1}|..\\API.Softfy\\API.Softfy.csproj|d:\\jair\\softfy\\api.softfy\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AD79FC-29D3-4800-878F-85FB58DD0CA1}|..\\API.Softfy\\API.Softfy.csproj|d:\\jair\\softfy\\api.softfy\\controllers\\playlistscancionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341B3311-14B2-478D-9871-BD33A77BD538}|Modelos.Softfy.csproj|D:\\JAIR\\Softfy\\Modelos.Softfy\\playlistcancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341B3311-14B2-478D-9871-BD33A77BD538}|Modelos.Softfy.csproj|solutionrelative:playlistcancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AD79FC-29D3-4800-878F-85FB58DD0CA1}|..\\API.Softfy\\API.Softfy.csproj|D:\\JAIR\\Softfy\\API.Softfy\\Migrations\\20250525232520_V02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\JAIR\\Softfy\\API.Softfy\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\API.Softfy\\appsettings.json",
+              "ToolTip": "D:\\JAIR\\Softfy\\API.Softfy\\appsettings.json",
+              "RelativeToolTip": "..\\API.Softfy\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T23:26:07.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250525232520_V02.cs",
+              "DocumentMoniker": "D:\\JAIR\\Softfy\\API.Softfy\\Migrations\\20250525232520_V02.cs",
+              "RelativeDocumentMoniker": "..\\API.Softfy\\Migrations\\20250525232520_V02.cs",
+              "ToolTip": "D:\\JAIR\\Softfy\\API.Softfy\\Migrations\\20250525232520_V02.cs",
+              "RelativeToolTip": "..\\API.Softfy\\Migrations\\20250525232520_V02.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:25:21.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\JAIR\\Softfy\\API.Softfy\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\API.Softfy\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\JAIR\\Softfy\\API.Softfy\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\API.Softfy\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:24:50.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaylistsCancionesController.cs",
+              "DocumentMoniker": "D:\\JAIR\\Softfy\\API.Softfy\\Controllers\\PlaylistsCancionesController.cs",
+              "RelativeDocumentMoniker": "..\\API.Softfy\\Controllers\\PlaylistsCancionesController.cs",
+              "ToolTip": "D:\\JAIR\\Softfy\\API.Softfy\\Controllers\\PlaylistsCancionesController.cs",
+              "RelativeToolTip": "..\\API.Softfy\\Controllers\\PlaylistsCancionesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:24:37.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaylistCancion.cs",
+              "DocumentMoniker": "D:\\JAIR\\Softfy\\Modelos.Softfy\\PlaylistCancion.cs",
+              "RelativeDocumentMoniker": "PlaylistCancion.cs",
+              "ToolTip": "D:\\JAIR\\Softfy\\Modelos.Softfy\\PlaylistCancion.cs",
+              "RelativeToolTip": "PlaylistCancion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:19:43.115Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1080,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
